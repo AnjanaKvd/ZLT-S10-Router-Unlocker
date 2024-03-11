@@ -1,7 +1,7 @@
 # ZLT S10 Router Band Unlocker
 
 ## Overview
-The ZLT S10 Router Band Unlocker is a Python application that allows users to unlock locked bands on the ZLT S10 router. This project consists of two main files: `main.py` and `request.py`.
+The ZLT S10 Router Frequency Band Unlocker is a Python application that allows users to unlock locked frequency bands on the ZLT S10 router. This project consists of two main files: `main.py` and `request.py`.
 
 ## Installation
 1. Clone or download the repository to your local machine.
